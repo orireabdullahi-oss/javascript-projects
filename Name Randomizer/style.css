@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(182, 170, 59);
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    margin-top: 12rem;
+}
+button {
+    background-color: black;
+    color: aliceblue;
+    transition: ease-in-out;
+}
