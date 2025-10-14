@@ -1,0 +1,14 @@
+body {
+    background:gray ;
+    display: grid;
+    grid-column: column;
+    /* justify-content: center;
+    align-items: center; */
+}
+.btn {
+    width: 5rem;
+    margin-left: 40rem;
+}
+.all-users {
+    margin-top: 5rem;
+}
